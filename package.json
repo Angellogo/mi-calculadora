@@ -1,0 +1,16 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "Esta es mi primer calculadora",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "estudiante",
+    "numeros",
+    "calculadora"
+  ],
+  "author": "Angel Moreno",
+  "license": "ISC"
+}
